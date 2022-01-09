@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-5cb230?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Cloud-5cb230?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microservices-a762d2?style=for-the-badge&logo=metrodeparis" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=serverless&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;

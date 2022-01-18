@@ -1,7 +1,7 @@
 <h1> Hi there 👋, I'm André Ripari </h1>
 
 <p>
-  I am an experienced <b>Lead Software Engineer with 17 years</b> in this area and international projects ✈️ experience. With a degree in Computer Science, I am working today in leading technically an agile team in a fast-growing payment company in Brazil.
+  I am an experienced <b>Lead Software Engineer with 17 years</b> in IT and international projects ✈️ experience. With a degree in Computer Science, I am working today in leading technically an agile team in a fast-growing payment company in Brazil.
 </p>
 
 <p>

@@ -22,7 +22,7 @@
 <h4>🔭  I’m currently working with ...</h4>
 <h5>Main technologies</h5>
 <p>
-  <img src="https://img.shields.io/badge/Node-1year-black?style=for-the-badge&logo=node.js&logoColor=black&labelColor=339933" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node-1%20year-black?style=for-the-badge&logo=node.js&logoColor=black&labelColor=339933" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-11%20years-black?style=for-the-badge&logo=java&logoColor=white&labelColor=e32c2d" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring-5%20years-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=5cb230" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-5%20years-black?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=FF9900" />&nbsp;&nbsp;

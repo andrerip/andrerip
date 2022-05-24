@@ -22,6 +22,7 @@
 <h4>🔭  I’m currently working with ...</h4>
 <h5>Main technologies</h5>
 <p>
+  <img src="https://img.shields.io/badge/Node-1year-black?style=for-the-badge&logo=node.js&logoColor=black&labelColor=339933" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-11%20years-black?style=for-the-badge&logo=java&logoColor=white&labelColor=e32c2d" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring-5%20years-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=5cb230" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-5%20years-black?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=FF9900" />&nbsp;&nbsp;
@@ -31,6 +32,7 @@
 <h5>Databases</h5>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dynamodb-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Aurora-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -38,6 +40,8 @@
 
 <h5>Other technologies</h5>
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-5cb230?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Cloud-5cb230?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microservices-a762d2?style=for-the-badge&logo=metrodeparis" />&nbsp;&nbsp;
@@ -47,6 +51,7 @@
   <img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/XRay-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;
@@ -56,14 +61,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<h4>💡  I'm currently learning...</h4>
-<p >
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
 </p>

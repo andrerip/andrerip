@@ -1,7 +1,7 @@
 <h1> Hi there 👋, I'm André Ripari </h1>
 
 <p>
-  I am an experienced <b>Lead Software Engineer with 17 years in IT</b> and international projects ✈️ experience. With a degree in Computer Science, I am working today in leading technically an agile team in a fast-growing payment company in Brazil.
+  I am an experienced <strong>Lead Software Engineer with 20 years</strong> in the IT area and international projects ✈️ experience. With a degree in Computer Science, I am working today for the fastest-growing Technology Solutions company in Latin America, which hires only the top 1% of IT talent.
 </p>
 
 <p>
@@ -22,11 +22,15 @@
 <h4>🔭  I’m currently working with ...</h4>
 <h5>Main technologies</h5>
 <p>
-  <img src="https://img.shields.io/badge/Node-1%20year-black?style=for-the-badge&logo=node.js&logoColor=black&labelColor=339933" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-11%20years-black?style=for-the-badge&logo=java&logoColor=white&labelColor=e32c2d" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring-5%20years-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=5cb230" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SCRUM-blue?style=for-the-badge&logo=scrumalliance&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-5%20years-black?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=FF9900" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SCRUM-5%20years-black?style=for-the-badge&logo=scrumalliance&logoColor=black&labelColor=blue" />
 </p>
 
 <h5>Databases</h5>
@@ -40,12 +44,11 @@
 
 <h5>Other technologies</h5>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-11%20years-black?style=for-the-badge&logo=java&logoColor=white&labelColor=e32c2d" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Spring-5%20years-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=5cb230" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-5cb230?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Cloud-5cb230?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microservices-a762d2?style=for-the-badge&logo=metrodeparis" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=serverless&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />&nbsp;&nbsp;
@@ -60,5 +63,5 @@
   <img src="https://img.shields.io/badge/JUNIT-25A162?style=for-the-badge&logo=junit5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black" />&nbsp;&nbsp;
 </p>

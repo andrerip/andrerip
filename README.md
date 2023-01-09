@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SCRUM-blue?style=for-the-badge&logo=scrumalliance&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-5%20years-black?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=FF9900" />&nbsp;&nbsp;
